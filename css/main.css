@@ -1,0 +1,19 @@
+body {
+  font-family: 'Plus Jakarta Sans', Arial, sans-serif;
+}
+
+h1 {
+  font-family: 'Geologica', Verdana, sans-serif;
+}
+
+#map1, #map2 {
+  height: 475px;
+}
+
+/* Pseudo classes */
+a {
+  color: #002E06;
+}
+a:hover {
+  color: #00470A;
+}
